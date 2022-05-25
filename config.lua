@@ -3,7 +3,7 @@ Config = {}
 Config.UseTarget = GetConvar('UseTarget', 'false') == 'true' -- Use qb-target interactions (don't change this, go to your server.cfg and add `setr UseTarget true` to use this and just that from true to false or the other way around)
 
 Config.VendingObject888888888888888888888 = {
-    "prop_vend_soda_01",
+    "prop_vend_soda_01000000000000000000000000000000000000000000000000000",
     "prop_vend_soda_02",
     "prop_vend_water_01"
 }
